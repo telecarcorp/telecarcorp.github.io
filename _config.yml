@@ -9,9 +9,9 @@ description: "Telecar corporate's official website"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Gary Jonhansson
   pic: 1
-  position: Lead Designer
+  position: Chief Executive Officer
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: David Nguyen 
   pic: 2
-  position: Lead Marketer
+  position: Chief Technology Officer
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Diana Smith
   pic: 3
-  position: Lead Developer
+  position: Chief Financial Officer
   social:
     - title: twitter
       url: #
@@ -45,15 +45,15 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: #
   - title: facebook
-    url:
+    url: #
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: #
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: #
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/telecarcorp
 
 # Postal address (add as many lines as necessary)
 address:
